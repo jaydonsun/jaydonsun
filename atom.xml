@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://imsjd.com/2020/10/06/hello-world/"/>
-    <id>https://imsjd.com/2020/10/06/hello-world/</id>
+    <link href="https://imsjd.com/hello-world.html"/>
+    <id>https://imsjd.com/hello-world.html</id>
     <published>2020-10-06T08:29:26.487Z</published>
     <updated>2020-10-06T08:29:26.487Z</updated>
     
@@ -34,6 +34,358 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十五天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-wu-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-wu-tian.html</id>
+    <published>2020-05-31T16:00:00.000Z</published>
+    <updated>2020-06-05T03:57:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用DHCP动态管理主机地址&quot;&gt;&lt;a href=&quot;#使用DHCP动态管理主机地址&quot; class=&quot;headerlink&quot; title=&quot;使用DHCP动态管理主机地址&quot;&gt;&lt;/a&gt;使用DHCP动态管理主机地址&lt;/h1&gt;&lt;p&gt;动态主机配置协议（DHCP，Dynamic</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十四天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-si-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-si-tian.html</id>
+    <published>2020-05-30T16:00:00.000Z</published>
+    <updated>2020-06-05T03:56:59.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用Samba或NFS实现文件共享&quot;&gt;&lt;a href=&quot;#使用Samba或NFS实现文件共享&quot; class=&quot;headerlink&quot; title=&quot;使用Samba或NFS实现文件共享&quot;&gt;&lt;/a&gt;使用Samba或NFS实现文件共享&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十三天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-san-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-san-tian.html</id>
+    <published>2020-05-29T16:00:00.000Z</published>
+    <updated>2020-06-05T03:56:51.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;使用vsftpd服务传输文件&quot;&gt;&lt;a href=&quot;#使用vsftpd服务传输文件&quot; class=&quot;headerlink&quot; title=&quot;使用vsftpd服务传输文件&quot;&gt;&lt;/a&gt;使用vsftpd服务传输文件&lt;/h2&gt;&lt;h3 id=&quot;文件传输协议&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十二天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-er-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-er-tian.html</id>
+    <published>2020-05-24T16:00:00.000Z</published>
+    <updated>2020-05-24T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;使用Apache服务部署静态网站&quot;&gt;&lt;a href=&quot;#使用Apache服务部署静态网站&quot; class=&quot;headerlink&quot; title=&quot;使用Apache服务部署静态网站&quot;&gt;&lt;/a&gt;使用Apache服务部署静态网站&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十一天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-yi-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-yi-tian.html</id>
+    <published>2020-05-23T16:00:00.000Z</published>
+    <updated>2020-05-23T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;使用ssh服务管理远程主机&quot;&gt;&lt;a href=&quot;#使用ssh服务管理远程主机&quot; class=&quot;headerlink&quot; title=&quot;使用ssh服务管理远程主机&quot;&gt;&lt;/a&gt;使用ssh服务管理远程主机&lt;/h2&gt;&lt;h3 id=&quot;配置网卡&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第十天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-shi-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-shi-tian.html</id>
+    <published>2020-05-22T16:00:00.000Z</published>
+    <updated>2020-05-22T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;iptables与firewalld防火墙&quot;&gt;&lt;a href=&quot;#iptables与firewalld防火墙&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第九天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-jiu-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-jiu-tian.html</id>
+    <published>2020-05-17T16:00:00.000Z</published>
+    <updated>2020-05-17T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月17日 周日&lt;/p&gt;
+&lt;h2 id=&quot;软硬方式链接&quot;&gt;&lt;a href=&quot;#软硬方式链接&quot; class=&quot;headerlink&quot; title=&quot;软硬方式链接&quot;&gt;&lt;/a&gt;软硬方式链接&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;硬链接（hard link）：&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第八天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-ba-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-ba-tian.html</id>
+    <published>2020-05-16T16:00:00.000Z</published>
+    <updated>2020-05-16T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月16日</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第七天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-qi-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-qi-tian.html</id>
+    <published>2020-05-15T16:00:00.000Z</published>
+    <updated>2020-05-15T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月15日</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第六天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-liu-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-liu-tian.html</id>
+    <published>2020-05-10T16:00:00.000Z</published>
+    <updated>2020-05-10T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月10日 周日&lt;br&gt;for条件循环语句&lt;br&gt;for循环语句允许脚本一次性读取多个信息，然后逐一对信息进行操作处理，当要处理的数据有范围时，使用for循环语句再适合不过了。&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第五天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-wu-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-wu-tian.html</id>
+    <published>2020-05-09T16:00:00.000Z</published>
+    <updated>2020-05-09T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月9日 周六&lt;/p&gt;
+&lt;h3 id=&quot;Vim编辑器&quot;&gt;&lt;a href=&quot;#Vim编辑器&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第四天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-si-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-si-tian.html</id>
+    <published>2020-05-08T16:00:00.000Z</published>
+    <updated>2020-05-08T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月8日 周五&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;tar命令-对文件打包或者解压&lt;br&gt;tar czvf 打包&lt;br&gt;tar xzvf 解压 后缀名为.tar.gz 或 .tar.bz2&lt;br&gt;tar xvf</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第三天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-san-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-san-tian.html</id>
+    <published>2020-05-04T00:00:00.000Z</published>
+    <updated>2020-05-30T15:25:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月3日 周日&lt;br&gt;继续讲解了常用的系统命令，这些命令需要记住&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ifconfig 查看网卡配置与网络状态&lt;br&gt;uname 查看系统内核与系统版本，uname -a 搭配-a参数完整查看信息&lt;br&gt;uptime</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第二天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-er-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-er-tian.html</id>
+    <published>2020-05-03T00:46:00.000Z</published>
+    <updated>2020-05-30T15:25:29.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月2日</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习 第一天</title>
+    <link href="https://imsjd.com/linux-xue-xi-di-yi-tian.html"/>
+    <id>https://imsjd.com/linux-xue-xi-di-yi-tian.html</id>
+    <published>2020-05-01T16:00:00.000Z</published>
+    <updated>2020-05-30T15:18:30.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2020年5月1日 周五&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;今天是课程第一天，主要介绍了开源的优势及Linux发展史，通过2个半小时的讲述，对开源共享精神有了进一步的了解，了解了Linux各发行版本和红帽认证。&lt;/strong&gt;&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Linux" scheme="https://imsjd.com/tags/Linux/"/>
     
   </entry>
   

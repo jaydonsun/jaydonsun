@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jaydon&#39;s Blog</title>
   
-  
+  <subtitle>Jaydon‘s Blog</subtitle>
   <link href="https://imsjd.com/atom.xml" rel="self"/>
   
   <link href="https://imsjd.com/"/>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jaydon&#39;s Blog</title>
+  
+  
+  <link href="https://imsjd.com/atom.xml" rel="self"/>
+  
+  <link href="https://imsjd.com/"/>
+  <updated>2020-10-06T08:29:26.487Z</updated>
+  <id>https://imsjd.com/</id>
+  
+  <author>
+    <name>Jaydon Sun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://imsjd.com/2020/10/06/hello-world/"/>
+    <id>https://imsjd.com/2020/10/06/hello-world/</id>
+    <published>2020-10-06T08:29:26.487Z</published>
+    <updated>2020-10-06T08:29:26.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
